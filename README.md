@@ -15,8 +15,7 @@ git commit -m "commit 2"
 
 git push
 `
-
-use git rebase
+After push on server, use git rebase
 `
 git rebase --edit-todo
 `
